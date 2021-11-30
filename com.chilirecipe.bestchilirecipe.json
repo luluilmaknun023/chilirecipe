@@ -65,31 +65,31 @@
 
  "Data": [
     {
+      "id": 8,
+      "name_category": "Easy",
+      "title": "Best chili Recipe",
+      "image": "https://therecipecritic.com/wp-content/uploads/2020/04/homemadechili_2-667x1000.jpg",
+      "description": "This is the best chili recipe with a big pot of ground beef chili loaded with beef and beans.",
+      "link": "https://luluilmaknun023.github.io/chilirecipe/Best%20Chili%20Recipe.html"
+    },
+    {
       "id": 7,
       "name_category": "Easy",
-      "title": "How to Roast Pumpkin Seeds ? (Roasted Pumpkin Seeds)",
-      "image": "https://minimalistbaker.com/wp-content/uploads/2017/10/How-to-Roast-Pumpkin-Seeds-Just-3-ingredients-simple-methods-SO-tasty-Healthy-vegan-plantbased-pumpkin-seeds-recipe-glutenfree-2.jpg",
-      "description": "Complete information for baking pumpkin seeds to make roasted pumpkin seeds.",
-      "link": "https://luluilmaknun023.github.io/pumpkinseedrecipe/How%20to%20Roast%20Pumpkin%20Seeds%20(Roasted%20Pumpkin%20Seeds).html"
+      "title": "Gourmet Chili Recipe",
+      "image": "https://fitfoodiefinds.com/wp-content/uploads/2019/09/CHILI-683x1024.jpg",
+      "description": "The best chili recipe you’ll ever eat is made with ground beef, beans, diced tomatoes, and a homemade chili seasoning.",
+      "link": "https://luluilmaknun023.github.io/chilirecipe/Gourmet%20Chili%20Recipe.html"
     },
     {
       "id": 6,
-      "name_category": "Easy",
-      "title": "Making Pumpkin Seeds",
-      "image": "https://pipingpotcurry.com/wp-content/uploads/2020/05/Roasted-Pumpkin-Seeds-Air-Fryer-Piping-Pot-Curry.webp",
-      "description": "You can make pumpkin seeds in air fryer or pumpkin seeds in oven.",
-      "link": "https://luluilmaknun023.github.io/pumpkinseedrecipe/Making%20Pumpkin%20Seeds.html"
-    },
-    {
-      "id": 5,
       "name_category": "Medium",
-      "title": "Sweet Pumpkin Seed Recipe (Cinnamon Sugar Pumpkin Seeds)",
-      "image": "https://joyfoodsunshine.com/wp-content/uploads/2016/10/cinnamon-sugar-pumpkin-seeds-recipe-1-720x720.jpg",
-      "description": "Making homemade cinnamon sugar pumpkin seeds for the perfect sweet.",
-      "link": "https://luluilmaknun023.github.io/pumpkinseedrecipe/Sweet%20Pumpkin%20Seed%20Recipe%20(Cinnamon%20Sugar%20Pumpkin%20Seeds).html"
+      "title": "Butternut Squash Chili Recipe",
+      "image": "https://www.tasteofhome.com/wp-content/uploads/2018/01/Butternut-Squash-Chili_EXPS_THN17_203808_B06_16_2b-3.jpg?fit=700,1024",
+      "description": "This Mexican stew is hearty enough to satisfy both vegetarians and meat eaters, with butternut squash, black beans and juicy tomatoes.",
+      "link": ""
     },
 	{
-      "id": 4,
+      "id": 5,
       "name_category": "Medium",
       "title": "Baked Pumpkin Seeds Recipe",
       "image": "https://cookieandkate.com/images/2020/10/best-roasted-pumpkin-seeds-recipe-2-550x824.jpg",
@@ -97,7 +97,7 @@
       "link": "https://luluilmaknun023.github.io/pumpkinseedrecipe/Baked%20Pumpkin%20Seeds%20Recipe.html"
     },
 	{
-      "id": 3,
+      "id": 4,
       "name_category": "Medium",
       "title": "Pumpkin Pie Recipe",
       "image": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2013/11/26/0/FN_Pumpkin-Pie_s4x3.jpg.rend.hgtvcom.826.620.suffix/1386172256183.jpeg",
@@ -105,7 +105,7 @@
       "link": "https://luluilmaknun023.github.io/pumpkinseedrecipe/Pumpkin%20Pie%20Recipe.html"
     },
 	 {
-      "id": 2,
+      "id": 3,
       "name_category": "Medium",
       "title": "Pumpkin Bread Recipe",
       "image": "https://cdn.sallysbakingaddiction.com/wp-content/uploads/2014/09/pumpkin-bread-600x900.jpg.webp",
@@ -113,7 +113,7 @@
       "link": "https://luluilmaknun023.github.io/pumpkinseedrecipe/Pumpkin%20Bread%20Recipe.html"
     },
 	 {
-      "id": 1,
+      "id": 2,
       "name_category": "Medium",
       "title": "Pumpkin Chocolate Chip Cookies",
       "image": "https://cdn.sallysbakingaddiction.com/wp-content/uploads/2013/09/pumpkin-chocolate-chip-cookies-on-plate-600x900.jpg.webp",
