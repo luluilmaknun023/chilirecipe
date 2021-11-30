@@ -13,7 +13,7 @@
       "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "chili recipe",
       "high_paying_keyword_2": "white chicken chili recipe",
-      "high_paying_keyword_3": "Heinz",
+      "high_paying_keyword_3": "Heinz tomato ketchup",
       "high_paying_keyword_4": "gourmet chili recipe",
       "high_paying_keyword_5": "pumpkin chili crockpot",
       "status_app": "0",
@@ -63,30 +63,62 @@
     }
   ],
 
-  "Data": [
+ "Data": [
     {
-      "id": 1,
+      "id": 7,
       "name_category": "Easy",
-      "title": "Turnamen Indoesports League Mobile MON",
-      "image": "https://cdn0-production-images-kly.akamaized.net/HkEDZzR6N-0KxCRWMOC-ss8IlQk=/640x360/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/2115193/original/037405100_1524529114-Mobile-Legends-Tips.jpg",
-      "description": "Dengan mengikuti turnamen ini, gamer di Tanah Air memiliki kesempatan untuk menjadi pro player PUBG Mobile.",
-      "link": "https://aliendro.id/uploads/demo/guidejson/guide_1.html"
+      "title": "How to Roast Pumpkin Seeds ? (Roasted Pumpkin Seeds)",
+      "image": "https://minimalistbaker.com/wp-content/uploads/2017/10/How-to-Roast-Pumpkin-Seeds-Just-3-ingredients-simple-methods-SO-tasty-Healthy-vegan-plantbased-pumpkin-seeds-recipe-glutenfree-2.jpg",
+      "description": "Complete information for baking pumpkin seeds to make roasted pumpkin seeds.",
+      "link": "https://luluilmaknun023.github.io/pumpkinseedrecipe/How%20to%20Roast%20Pumpkin%20Seeds%20(Roasted%20Pumpkin%20Seeds).html"
     },
     {
-      "id": 2,
+      "id": 6,
       "name_category": "Easy",
-      "title": "Trik Tersembunyi Lord Mobile MON",
-      "image": "https://media.suara.com/pictures/480x260/2020/06/26/57007-logo-mobile-legends-youtube-mobile-legends-bang-bang.jpg",
-      "description": "Ini contoh description guide/tutorial ka dua pada json online,dengan data html dan gambar diambil dari folder assets aplikasi",
-      "link": "<p>Indoesports League Mobile menggelar turnamen game PUBG Mobile, Indoesports League Mobile x Game.ly PUBG Mobile. Dengan mengikuti turnamen ini, gamer di Tanah Air memiliki kesempatan untuk menjadi pro player PUBG Mobile.</p>\r\n\r\n<p>Seperti diketahui, Indonesia tengah menjadi sorotan di kalangan PUBGM Global lewat prestasi yang baru-baru ini diraih sebagai Juara Dunia PUBG Mobile. Kemenangan dicapai oleh Bigetron RA yang digawangi oleh Luxxy, Zuxxy, Ryzen dan Microboy.</p>\r\n\r\n<p><img alt=\"\" src=\"https://cdn1-production-images-kly.akamaized.net/8Y3LmBRFGbmO67kyYPayJbmUp_M=/640x360/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/2514400/original/014338600_1543878323-PUBG-Mobile-update.jpg\" style=\"height:360px; width:640px\" /></p>\r\n\r\n<p>Kesuksesan 4 anak muda ini tentunya tak diraih secara instan. Ratusan bahkan ribuan pertandingan telah mereka tempuh sejak berkarir sebagai pro-player di dunia PUBG Mobile.</p>\r\n\r\n<p>Berkali-kali mengikuti pertandingan mulai dari skala kecil, menengah, nasional hingga internasional serta bertemu dengan player-player terbaik dari berbagai penjuru dunia.</p>\r\n\r\n<p>Berikut ini jadwal turnamen Indoesports League Mobile x Game.ly PUBG Mobile.</p>\r\n\r\n<p>Open Registration : 16 Januari 2020 &ndash; 26 Januari 2020</p>\r\n\r\n<p>Technical Meeting : 27 Januari 2020</p>\r\n\r\n<p>Babak Match : 28 &ndash; 30 Januari 2020</p>\r\n\r\n<p>Grand Final : 31 Januari 2020</p>\r\n\r\n<p>Tempat : Online di seluruh Indonesia</p>\r\n\r\n<p>Update berita dan informasi turnamen, serta halaman untuk mendaftar dapat diakses di website dan Instagram Indoesports.</p>\r\n"
+      "title": "Making Pumpkin Seeds",
+      "image": "https://pipingpotcurry.com/wp-content/uploads/2020/05/Roasted-Pumpkin-Seeds-Air-Fryer-Piping-Pot-Curry.webp",
+      "description": "You can make pumpkin seeds in air fryer or pumpkin seeds in oven.",
+      "link": "https://luluilmaknun023.github.io/pumpkinseedrecipe/Making%20Pumpkin%20Seeds.html"
     },
     {
+      "id": 5,
+      "name_category": "Medium",
+      "title": "Sweet Pumpkin Seed Recipe (Cinnamon Sugar Pumpkin Seeds)",
+      "image": "https://joyfoodsunshine.com/wp-content/uploads/2016/10/cinnamon-sugar-pumpkin-seeds-recipe-1-720x720.jpg",
+      "description": "Making homemade cinnamon sugar pumpkin seeds for the perfect sweet.",
+      "link": "https://luluilmaknun023.github.io/pumpkinseedrecipe/Sweet%20Pumpkin%20Seed%20Recipe%20(Cinnamon%20Sugar%20Pumpkin%20Seeds).html"
+    },
+	{
+      "id": 4,
+      "name_category": "Medium",
+      "title": "Baked Pumpkin Seeds Recipe",
+      "image": "https://cookieandkate.com/images/2020/10/best-roasted-pumpkin-seeds-recipe-2-550x824.jpg",
+      "description": "This fun recipe yields perfect roasted pumpkin seeds, every time.",
+      "link": "https://luluilmaknun023.github.io/pumpkinseedrecipe/Baked%20Pumpkin%20Seeds%20Recipe.html"
+    },
+	{
       "id": 3,
       "name_category": "Medium",
-      "title": "Mobile Legend Update",
-      "image": "https://img.okezone.com/content/2020/08/04/16/2256942/piala-menpora-esport-2020-tampilkan-game-mobile-legends-bang-bang-oiczwialMq.jpg",
-      "description": "Ini contoh description guide/tutorial ka tiga pada json online, silahkan upload file html di hosting",
-      "link": "https://aliendro.id/uploads/demo/guidejson/guide_2.html"
+      "title": "Pumpkin Pie Recipe",
+      "image": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2013/11/26/0/FN_Pumpkin-Pie_s4x3.jpg.rend.hgtvcom.826.620.suffix/1386172256183.jpeg",
+      "description": "Fill a sweet shortcrust pastry tart case with lightly spiced squash to make a traditional American treat.",
+      "link": "https://luluilmaknun023.github.io/pumpkinseedrecipe/Pumpkin%20Pie%20Recipe.html"
+    },
+	 {
+      "id": 2,
+      "name_category": "Medium",
+      "title": "Pumpkin Bread Recipe",
+      "image": "https://cdn.sallysbakingaddiction.com/wp-content/uploads/2014/09/pumpkin-bread-600x900.jpg.webp",
+      "description": "Homemade pumpkin bread is a favorite fall recipe packed with sweet cinnamon spice, chocolate chips, and tons of pumpkin flavor.",
+      "link": "https://luluilmaknun023.github.io/pumpkinseedrecipe/Pumpkin%20Bread%20Recipe.html"
+    },
+	 {
+      "id": 1,
+      "name_category": "Medium",
+      "title": "Pumpkin Chocolate Chip Cookies",
+      "image": "https://cdn.sallysbakingaddiction.com/wp-content/uploads/2013/09/pumpkin-chocolate-chip-cookies-on-plate-600x900.jpg.webp",
+      "description": "You’ll love these pumpkin chocolate chip cookies! Omitting the egg, using melted butter, and blotting the pumpkin guarantee a chewier texture.",
+      "link": "https://luluilmaknun023.github.io/pumpkinseedrecipe/Pumpkin%20Chocolate%20Chip%20Cookies.html"
     }
   ]
 }
