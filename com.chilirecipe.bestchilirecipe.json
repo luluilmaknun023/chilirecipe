@@ -1,14 +1,14 @@
 {
   "Ads": [
     {
-      "select_main_ads": "ADMOB",
+      "select_main_ads": "APPLOVIN-D",
       "select_backup_ads":"APPLOVIN-D",
-      "main_ads_banner": "ca-app-pub-9200602507152446/2410660515",
-      "main_ads_intertitial":"ca-app-pub-9200602507152446/6158333833",
-      "native_for_admob":"ca-app-pub-9200602507152446/4199041441",
+      "main_ads_banner": "8235c3ed8c982681",
+      "main_ads_intertitial":"adacc2ab4cdcd667",
+      "native_for_admob":"",
       "backup_ads_banner":"8235c3ed8c982681",
       "backup_ads_intertitial":"adacc2ab4cdcd667",
-      "interval_intertitial": 5,
+      "interval_intertitial": 1,
       "initialize_sdk":"",
       "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "chili recipe",
