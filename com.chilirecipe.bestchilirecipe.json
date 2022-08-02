@@ -1,22 +1,22 @@
 {
   "Ads": [
     {
-      "select_main_ads": "APPLOVIN-D",
-      "select_backup_ads":"ADMOB",
-      "main_ads_banner": "8235c3ed8c982681",
-      "main_ads_intertitial":"adacc2ab4cdcd667",
-      "native_for_admob":"ca-app-pub-9200602507152446/2835867584",
-      "backup_ads_banner":"ca-app-pub-9200602507152446/6775112599",
-      "backup_ads_intertitial":"ca-app-pub-9200602507152446/4561186258",
+      "select_main_ads": "STARTAPP",
+      "select_backup_ads":"ADMOBX",
+      "main_ads_banner": "8235c3ed8c982681X",
+      "main_ads_intertitial":"adacc2ab4cdcd667X",
+      "native_for_admob":"ca-app-pub-9200602507152446/2835867584X",
+      "backup_ads_banner":"ca-app-pub-9200602507152446/6775112599X",
+      "backup_ads_intertitial":"ca-app-pub-9200602507152446/4561186258X",
       "interval_intertitial": 1,
-      "initialize_sdk":"",
+      "initialize_sdk":"207298507",
       "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "",
       "high_paying_keyword_2": "",
       "high_paying_keyword_3": "",
       "high_paying_keyword_4": "",
       "high_paying_keyword_5": "",
-      "status_app": "1",
+      "status_app": "0",
       "link_redirect": "https://play.google.com/store/apps/details?id=com.zerocorp.proteinshakesdietrecipe"
     }
   ],
